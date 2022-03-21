@@ -100,8 +100,8 @@ img:hover {
 /* On screens 576px and smaller the images will be 100px tall and centered vertically in the column */
 @media screen and (max-width:576px) {
     img {
-        height:100px;
-        margin-top:150px;
+        height:150px;
+        margin-top:200px;
     }
 }
 
