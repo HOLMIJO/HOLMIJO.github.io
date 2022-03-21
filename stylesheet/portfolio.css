@@ -86,7 +86,7 @@ img {
     filter:grayscale(75%);
     border-radius:8px;
     max-width:100%;
-    height:200px;
+    height:300px;
     display:block;
     margin:auto auto auto auto; /*Centers all images*/
 }
